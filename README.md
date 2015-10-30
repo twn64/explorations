@@ -2,6 +2,8 @@
 This QuickStart was created to make it easy to get started with CodeIgniter 2 
 on OpenShift.
 
+Here is a basic guide to point everyone in the right direction: https://www.codeigniter.com/user_guide/database/examples.html
+
 [CodeIgniter](http://www.codeigniter.com/) is a powerful PHP 
 framework with a very small footprint, built for developers who need a simple 
 and elegant toolkit to create full-featured web applications. CodeIgniter 2.x
