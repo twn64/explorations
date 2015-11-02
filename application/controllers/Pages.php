@@ -1,6 +1,7 @@
 <?php
 class Pages extends CI_Controller {
 
+        //Basic functions
         public function view($page = 'home')
         {
           if ( ! file_exists(APPPATH.'/views/pages/'.$page.'.php'))
